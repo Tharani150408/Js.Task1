@@ -1,4 +1,4 @@
-let num="74";
+let num="55";
 let a=Number(num);
 
 switch(true){
